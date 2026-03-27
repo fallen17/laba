@@ -72,4 +72,6 @@ int countings(int firSide, int secSide, int thirSide)
 }
 
 
+
 //grgdggdhhhfhj
+
