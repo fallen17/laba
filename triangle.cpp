@@ -70,3 +70,6 @@ int countings(int firSide, int secSide, int thirSide)
 
 	return 0;
 }
+
+
+//grgdggdhhhfhj
